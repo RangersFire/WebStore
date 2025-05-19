@@ -1,2 +1,2 @@
-# e-commerce-wanzofc
-# e-commerce-wanzofc
+# Web Store [Template]
+
